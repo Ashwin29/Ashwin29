@@ -2,7 +2,7 @@
 
 I'm a software developer with an urge for building quality software and solving tedious business problem. Besides software development, I love video games🎮, building home theatres🔉 and I'm an audiophile👂.
 
-- 🔭 I’m currently working as a Software Development Engineer.
+- 🔭 I’m currently working as Software Development Engineer.
 - 🌱 I’m currently learning Unity and pathfinding AI.
 - 🤵 I'm really a fan of this <a href="https://openai.com/blog/emergent-tool-use/">research</a>.
 - 💬 Ask me about ReactJs, React Native, React Apollo Client, GraphQL, Android, Kotlin, Typescript, Ionic, NodeJs, NestJs.
