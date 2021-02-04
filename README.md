@@ -4,7 +4,7 @@ I'm a software development engineer with an urge for building quality software a
 
 - 🔭 I’m currently working as software development engineer at Ernst & Young.
 - 🌱 I’m currently learning Unity and pathfinding AI.
-- 🤵 I'm really a fan of this research https://openai.com/blog/emergent-tool-use/
+- 🤵 I'm really a fan of this <a href="https://openai.com/blog/emergent-tool-use/">research</a>.
 - 💬 Ask me about ReactJs, React Native, React Apollo Client, GraphQL, Android, Kotlin, Typescript, Ionic, NodeJs, NestJs.
 - 📫 Mail me: aashwin.win17@gmail.com
 - ⚡ Fun fact: I write blogs but I don't write them frequently.
